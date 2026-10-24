@@ -1,4 +1,4 @@
-jstreamlit
+streamlit
 pandas
 joblib
 scikit-learn
